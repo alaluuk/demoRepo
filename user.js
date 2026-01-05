@@ -1,1 +1,1 @@
-console.log("Terve");
+console.log("Terve in main");
